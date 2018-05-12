@@ -28,6 +28,8 @@ creator:
 description: A gun is an interesting weapon; it can be hired, of course, and naturally
   doesn't care who hires it. Something much the same can be said of the gunman, too
   ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24247#Gun-for-Hire
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-01-11'
 gutenberg_type: Text
