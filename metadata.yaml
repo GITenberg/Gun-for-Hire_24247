@@ -1,0 +1,47 @@
+_repo: Gun-for-Hire_24247
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Van Dongen, H. R.
+    aliases:
+    - Dongen, H. R. Van
+    - Van Dongen, Henry Richard
+    - Dongen, van
+    birthdate: 1920
+    deathdate: 2010
+    gutenberg_agent_id: '26301'
+    url: http://www.gutenberg.org/2009/agents/26301
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reynolds, Mack
+    aliases:
+    - Reynolds, Dallas McCord
+    - McCord, Guy
+    birthdate: 1917
+    deathdate: 1983
+    gutenberg_agent_id: '25744'
+    url: http://www.gutenberg.org/2009/agents/25744
+    wikipedia: http://en.wikipedia.org/wiki/Mack_Reynolds
+description: A gun is an interesting weapon; it can be hired, of course, and naturally
+  doesn't care who hires it. Something much the same can be said of the gunman, too
+  ...
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24247'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Assassins -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Time travel -- Fiction'
+title: Gun for Hire
+url: http://www.gutenberg.org/ebooks/24247
